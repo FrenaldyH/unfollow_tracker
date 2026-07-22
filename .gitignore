@@ -1,0 +1,18 @@
+# Data pribadi untuk testing
+test/
+
+/logs
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Cache
+*.test
+*.out
+
+# OS
+.DS_Store
+Thumbs.db
